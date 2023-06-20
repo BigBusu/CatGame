@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f386380e-2ab8-42c2-93a0-1ef9717c5c93",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 229,
+  "height": 229,
+  "platformSettings": {},
+  "subMetas": {
+    "7-龙猫的鳞片": {
+      "ver": "1.0.6",
+      "uuid": "3a0848f1-549f-40dd-8f11-7a9ce94c922b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f386380e-2ab8-42c2-93a0-1ef9717c5c93",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -10,
+      "trimX": 48,
+      "trimY": 59,
+      "width": 132,
+      "height": 131,
+      "rawWidth": 229,
+      "rawHeight": 229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

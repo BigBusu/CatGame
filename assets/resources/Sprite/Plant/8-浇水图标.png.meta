@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f115c57b-9c21-48ed-a43a-dbafed1d97bd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 116,
+  "height": 121,
+  "platformSettings": {},
+  "subMetas": {
+    "8-浇水图标": {
+      "ver": "1.0.6",
+      "uuid": "af38309f-7b69-4c08-9d74-24cccf4dfc79",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f115c57b-9c21-48ed-a43a-dbafed1d97bd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 12,
+      "trimX": 34,
+      "trimY": 15,
+      "width": 48,
+      "height": 67,
+      "rawWidth": 116,
+      "rawHeight": 121,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

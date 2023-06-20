@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "76a0e40f-d371-42c4-a671-debb44607d72",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 96,
+  "height": 96,
+  "platformSettings": {},
+  "subMetas": {
+    "5-线索图标-铲子": {
+      "ver": "1.0.6",
+      "uuid": "d7c80720-24ca-4427-bccf-d1eabe04ba15",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "76a0e40f-d371-42c4-a671-debb44607d72",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 20,
+      "trimY": 11,
+      "width": 56,
+      "height": 76,
+      "rawWidth": 96,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

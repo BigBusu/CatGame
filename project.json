@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "CatGame",
+  "id": "f07674d4-ee8e-41d8-8ebd-54e830a0f7fa",
+  "version": "2.4.11",
+  "isNew": false
+}

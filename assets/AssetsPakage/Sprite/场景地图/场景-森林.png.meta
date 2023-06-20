@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "621a76af-a0ef-4ecd-bfad-45afb1fb9d83",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 3360,
+  "height": 2400,
+  "platformSettings": {},
+  "subMetas": {
+    "场景-森林": {
+      "ver": "1.0.6",
+      "uuid": "8d90b7f8-ec48-4eb4-bbde-98a12c73030f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "621a76af-a0ef-4ecd-bfad-45afb1fb9d83",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 3360,
+      "height": 2400,
+      "rawWidth": 3360,
+      "rawHeight": 2400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "12b7b2d7-b102-4674-91ec-7d8cf18b0ad9",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 229,
+  "height": 229,
+  "platformSettings": {},
+  "subMetas": {
+    "9-汪喵的超幸运便便": {
+      "ver": "1.0.6",
+      "uuid": "bdede87d-f38f-4c5c-83c7-d3b001b9f705",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "12b7b2d7-b102-4674-91ec-7d8cf18b0ad9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 8.5,
+      "trimX": 18,
+      "trimY": 23,
+      "width": 190,
+      "height": 166,
+      "rawWidth": 229,
+      "rawHeight": 229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4ad647fe-303f-41c3-b60e-5fa80d3f049c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 229,
+  "height": 229,
+  "platformSettings": {},
+  "subMetas": {
+    "11-龟龟猫的壳": {
+      "ver": "1.0.6",
+      "uuid": "f25ea8a7-4d40-40ca-a2e3-729fcd2b07e6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4ad647fe-303f-41c3-b60e-5fa80d3f049c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7,
+      "offsetY": -10.5,
+      "trimX": 8,
+      "trimY": 61,
+      "width": 199,
+      "height": 128,
+      "rawWidth": 229,
+      "rawHeight": 229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

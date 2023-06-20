@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "61ef21c8-8d30-454c-8713-255fafb9e8e4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 116,
+  "height": 121,
+  "platformSettings": {},
+  "subMetas": {
+    "6-作物提示气泡": {
+      "ver": "1.0.6",
+      "uuid": "4266d1e5-9ea8-48b8-b0c2-def3d298e824",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "61ef21c8-8d30-454c-8713-255fafb9e8e4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 110,
+      "height": 115,
+      "rawWidth": 116,
+      "rawHeight": 121,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "3cc67ffb-1431-4074-ba6d-a7ace6227099",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 492,
+  "height": 237,
+  "platformSettings": {},
+  "subMetas": {
+    "9-开垦成功-特效": {
+      "ver": "1.0.6",
+      "uuid": "9f94897f-c950-4ed4-ab06-6c2dcb7cc8fb",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3cc67ffb-1431-4074-ba6d-a7ace6227099",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 486,
+      "height": 231,
+      "rawWidth": 492,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a3610c26-8b31-4a73-8927-250bee9ec0e3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 201,
+  "height": 204,
+  "platformSettings": {},
+  "subMetas": {
+    "4-种子图标": {
+      "ver": "1.0.6",
+      "uuid": "638b7ffe-6d2c-4efe-ab29-17bbbdc74b06",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a3610c26-8b31-4a73-8927-250bee9ec0e3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -6,
+      "offsetY": -6.5,
+      "trimX": 34,
+      "trimY": 49,
+      "width": 121,
+      "height": 119,
+      "rawWidth": 201,
+      "rawHeight": 204,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

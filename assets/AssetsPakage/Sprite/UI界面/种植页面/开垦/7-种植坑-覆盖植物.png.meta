@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "3a0fd64d-3a16-47ee-8806-34d4f182011a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 255,
+  "height": 101,
+  "platformSettings": {},
+  "subMetas": {
+    "7-种植坑-覆盖植物": {
+      "ver": "1.0.6",
+      "uuid": "4e7c439c-b242-4b87-b1c8-00ea16be4617",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "3a0fd64d-3a16-47ee-8806-34d4f182011a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -12.5,
+      "offsetY": -14,
+      "trimX": 19,
+      "trimY": 31,
+      "width": 192,
+      "height": 67,
+      "rawWidth": 255,
+      "rawHeight": 101,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

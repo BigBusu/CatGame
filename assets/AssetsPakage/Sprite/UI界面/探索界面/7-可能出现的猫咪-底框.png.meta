@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a34d9d7b-0165-4137-ab9e-8707f9ad0235",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 91,
+  "height": 91,
+  "platformSettings": {},
+  "subMetas": {
+    "7-可能出现的猫咪-底框": {
+      "ver": "1.0.6",
+      "uuid": "a5b492ac-ec16-45fc-8efd-f54e73f34c27",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a34d9d7b-0165-4137-ab9e-8707f9ad0235",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 85,
+      "height": 85,
+      "rawWidth": 91,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

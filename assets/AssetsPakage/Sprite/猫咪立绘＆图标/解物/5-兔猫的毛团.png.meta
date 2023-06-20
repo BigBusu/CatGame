@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "130c12c3-5317-42dd-951b-9fdc3a8dadb6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 229,
+  "height": 229,
+  "platformSettings": {},
+  "subMetas": {
+    "5-兔猫的毛团": {
+      "ver": "1.0.6",
+      "uuid": "c4fcb53a-b495-48a1-9bbc-59efb9c8c2a9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "130c12c3-5317-42dd-951b-9fdc3a8dadb6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": -7.5,
+      "trimX": 46,
+      "trimY": 61,
+      "width": 132,
+      "height": 122,
+      "rawWidth": 229,
+      "rawHeight": 229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

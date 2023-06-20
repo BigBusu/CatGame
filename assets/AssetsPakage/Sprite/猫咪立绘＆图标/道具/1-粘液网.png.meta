@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bce67090-8065-41f4-bffc-45959e4a2d7c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 229,
+  "height": 229,
+  "platformSettings": {},
+  "subMetas": {
+    "1-粘液网": {
+      "ver": "1.0.6",
+      "uuid": "79f21a1d-b75a-4636-944f-19f8c216be22",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bce67090-8065-41f4-bffc-45959e4a2d7c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": -0.5,
+      "trimX": 4,
+      "trimY": 10,
+      "width": 216,
+      "height": 210,
+      "rawWidth": 229,
+      "rawHeight": 229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "237f0258-6ac6-4462-a0c9-8d25bbf8c194",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 235,
+  "height": 168,
+  "platformSettings": {},
+  "subMetas": {
+    "1-水壶图标-大": {
+      "ver": "1.0.6",
+      "uuid": "7bca82e9-69a6-4ba9-b4af-19bec164f27d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "237f0258-6ac6-4462-a0c9-8d25bbf8c194",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 229,
+      "height": 162,
+      "rawWidth": 235,
+      "rawHeight": 168,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

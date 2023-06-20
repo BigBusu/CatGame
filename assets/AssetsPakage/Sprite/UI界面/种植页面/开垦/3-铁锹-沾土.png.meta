@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d329b4a9-ec15-4faa-bfa5-cac04a921edd",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 143,
+  "height": 221,
+  "platformSettings": {},
+  "subMetas": {
+    "3-铁锹-沾土": {
+      "ver": "1.0.6",
+      "uuid": "8511063e-bf68-4c8a-bb4d-744428305722",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d329b4a9-ec15-4faa-bfa5-cac04a921edd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 137,
+      "height": 215,
+      "rawWidth": 143,
+      "rawHeight": 221,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

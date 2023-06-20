@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "9d8852ef-ce2e-4825-ac36-98447327d644",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 229,
+  "height": 229,
+  "platformSettings": {},
+  "subMetas": {
+    "2-火烈猫的羽毛": {
+      "ver": "1.0.6",
+      "uuid": "47ba5acd-b8e0-41ba-a867-0bf1b0cb27d1",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "9d8852ef-ce2e-4825-ac36-98447327d644",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4,
+      "offsetY": -4.5,
+      "trimX": 47,
+      "trimY": 30,
+      "width": 143,
+      "height": 178,
+      "rawWidth": 229,
+      "rawHeight": 229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a360d3d2-9842-42a0-a781-07e6b829e23f",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 229,
+  "height": 229,
+  "platformSettings": {},
+  "subMetas": {
+    "4-蜗猫的粘液": {
+      "ver": "1.0.6",
+      "uuid": "14a08ad3-bc26-44ef-82b9-46fcf39d4869",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a360d3d2-9842-42a0-a781-07e6b829e23f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7,
+      "offsetY": -5.5,
+      "trimX": 62,
+      "trimY": 37,
+      "width": 91,
+      "height": 166,
+      "rawWidth": 229,
+      "rawHeight": 229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

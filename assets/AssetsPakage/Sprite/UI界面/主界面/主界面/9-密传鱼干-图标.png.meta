@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "caa6468c-a136-40c5-8c77-6a3bc4e2b4cb",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 137,
+  "height": 99,
+  "platformSettings": {},
+  "subMetas": {
+    "9-密传鱼干-图标": {
+      "ver": "1.0.6",
+      "uuid": "ef1e3dca-a3f3-4c99-8a2f-10d237810ef9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "caa6468c-a136-40c5-8c77-6a3bc4e2b4cb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 131,
+      "height": 93,
+      "rawWidth": 137,
+      "rawHeight": 99,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

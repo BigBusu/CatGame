@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "060e04ec-5d8e-4b7b-bd90-204bab720da1",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 229,
+  "height": 229,
+  "platformSettings": {},
+  "subMetas": {
+    "10-松鼠猫的珍藏橡果": {
+      "ver": "1.0.6",
+      "uuid": "466eb555-b0db-4ff0-bf25-6b3a4ff8dff2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "060e04ec-5d8e-4b7b-bd90-204bab720da1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": -0.5,
+      "trimX": 52,
+      "trimY": 44,
+      "width": 120,
+      "height": 142,
+      "rawWidth": 229,
+      "rawHeight": 229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

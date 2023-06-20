@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "deab0e61-42d6-49c7-a083-85bba18abc71",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 254,
+  "height": 254,
+  "platformSettings": {},
+  "subMetas": {
+    "6-玉米-2": {
+      "ver": "1.0.6",
+      "uuid": "10ff5d26-019b-46a6-a015-3bfe15b63348",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "deab0e61-42d6-49c7-a083-85bba18abc71",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 6.5,
+      "trimX": 40,
+      "trimY": 13,
+      "width": 171,
+      "height": 215,
+      "rawWidth": 254,
+      "rawHeight": 254,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

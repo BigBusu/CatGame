@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "11365dc2-bc25-457e-9bca-a7f7ba1356d3",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 280,
+  "height": 99,
+  "platformSettings": {},
+  "subMetas": {
+    "1-开垦选区": {
+      "ver": "1.0.6",
+      "uuid": "cdd54ad1-e470-4f9d-aea5-52ba3c927052",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "11365dc2-bc25-457e-9bca-a7f7ba1356d3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 274,
+      "height": 93,
+      "rawWidth": 280,
+      "rawHeight": 99,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "55ef20c8-daf5-40f7-a199-8d8ad3e42ffa",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 229,
+  "height": 229,
+  "platformSettings": {},
+  "subMetas": {
+    "6-鲨猫的牙齿": {
+      "ver": "1.0.6",
+      "uuid": "ee078074-536d-480e-99fb-fb3e377df634",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "55ef20c8-daf5-40f7-a199-8d8ad3e42ffa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 11,
+      "offsetY": 3,
+      "trimX": 65,
+      "trimY": 34,
+      "width": 121,
+      "height": 155,
+      "rawWidth": 229,
+      "rawHeight": 229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
